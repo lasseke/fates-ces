@@ -1,5 +1,7 @@
 # Inferring parameters in a land surface model by combining data assimilation and machine learning
 
+[![DOI](https://zenodo.org/badge/813875754.svg)](https://zenodo.org/doi/10.5281/zenodo.11840623)
+
 Authors: Lasse T. Keetz, Kristoffer Aalstad, Rosie A. Fisher
 
 Special thanks to: Matvey Vladimirovich Debolskiy, Kaveh Karimi-Asli, the [CTSM](https://github.com/ESCOMP/CTSM), [FATES](https://github.com/NGEET/fates), and [NorESM](https://github.com/NorESMhub/NorESM) development teams, [Cleary et al. (2021)](https://doi.org/10.1016/j.jcp.2020.109716), [FLUXNET](https://doi.org/10.18140/FLX/1440158), and the [SMEAR II](https://etsin.fairdata.fi/dataset/d1dd1e15-7de1-414d-b9d4-47d03bd68272) research network.
