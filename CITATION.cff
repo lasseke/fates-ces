@@ -9,6 +9,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-2475-3731"
 title: "CLM-FATES parameter estimation using the 'calibrate, emulate, sample' approach"
 version: 0.1.0
-doi: https://doi.org/10.5281/zenodo.11840624
+doi: "10.5281/zenodo.11840624"
 date-released: 2024-06-12
 url: "https://github.com/lasseke/fates-ces"
