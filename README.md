@@ -1,6 +1,6 @@
 # Inferring parameters in a land surface model by combining data assimilation and machine learning
 
-[![DOI](https://zenodo.org/badge/813875754.svg)](https://zenodo.org/doi/10.5281/zenodo.11840623)
+<a href="https://zenodo.org/doi/10.5281/zenodo.11840623"><img src="https://zenodo.org/badge/813875754.svg" alt="DOI"></a>
 
 Authors: Lasse T. Keetz, Kristoffer Aalstad, Rosie A. Fisher
 
