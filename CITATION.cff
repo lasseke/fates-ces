@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Keetz"
+  given-names: "Lasse T."
+  orcid: "https://orcid.org/0000-0002-8040-4122"
+- family-names: "Aalstad"
+  given-names: "Kristoffer"
+  orcid: "https://orcid.org/0000-0002-2475-3731"
+title: "CLM-FATES parameter estimation using the 'calibrate, emulate, sample' approach"
+version: 0.1.0
+doi: TBA
+date-released: 2024-06-12
+url: "https://github.com/lasseke/fates-ces"

@@ -1,0 +1,6 @@
+
+# Change below line if you move the subset data directory
+
+./xmlchange PTS_LON=24.295
+
+./xmlchange PTS_LAT=61.8474

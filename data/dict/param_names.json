@@ -1,0 +1,26 @@
+{
+    "fates_leaf_vcmax25top_PFT2": {
+        "pltname": "Vcmax_PFT_needle",
+        "color": "red"
+    },
+    "fates_leaf_vcmax25top_PFT6": {
+        "pltname": "Vcmax_PFT_broad",
+        "color": "blue"
+    },
+    "fates_leaf_vcmax25top_PFT11": {
+        "pltname": "Vcmax_PFT_grass",
+        "color": "yellow"
+    },
+    "fates_leaf_stomatal_slope_ballberry_PFT2": {
+        "pltname": "BBslope_PFT_needle",
+        "color": "red"
+    },
+    "fates_leaf_stomatal_slope_ballberry_PFT6": {
+        "pltname": "BBslope_PFT_broad",
+        "color": "blue"
+    },
+    "fates_leaf_stomatal_slope_ballberry_PFT11": {
+        "pltname": "BBslope_PFT_grass",
+        "color": "yellow"
+    }
+}

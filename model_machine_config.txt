@@ -1,0 +1,16 @@
+[install_options]
+MODEL_URL = https://github.com/NorESMhub/CTSM.git
+MODEL_VERSION = ctsm5.1.dev151-noresm_v1
+MODEL_INSTALL_PATH = /cluster/work/users/lassetk/ctsm/
+MACHINE_NAME = fram
+
+[fates_options]
+DEFAULT_PARAM_CDL_FILE = /cluster/work/users/lassetk/ctsm/src/fates/parameter_files/fates_params_default.cdl
+DEFAULT_PARAM_NC_FILE = /cluster/work/users/lassetk/ctsm/src/fates/parameter_files/fates_params_default.nc
+MODIFY_PARAMS_TOOL = /cluster/work/users/lassetk/ctsm/src/fates/tools/modify_fates_paramfile.py
+
+[hpc_module_names]
+GIT = git/2.38.1-GCCcore-12.2.0-nodocs
+NETCDF = netCDF-Fortran/4.6.0-iimpi-2022a
+ANACONDA = Anaconda3/2023.07-2
+NCO = NCO/5.1.3-iimpi-2022a

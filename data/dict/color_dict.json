@@ -1,0 +1,15 @@
+{
+    "prior": "purple",
+    "enkf": "green",
+    "mcmc": "orange",
+    "UNI_ST": "#D55E00",
+    "LHC_ST": "#DE8F05",
+    "LON_ST": "#029E73",
+    "CES_ST": "#0173B2",
+    "UNI_EC": "#D55E00",
+    "LHC_EC": "#DE8F05",
+    "LON_EC": "#029E73",
+    "CES_EC": "#0173B2",
+    "K4": "#800080",
+    "default": "#CA9161"
+}
